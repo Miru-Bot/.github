@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Miru Music Bot of Discord is here!
+Miru Bot of Discord is here!
 
 Cooming Soon!
 <!--
