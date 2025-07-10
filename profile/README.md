@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Miru Bot of Discord is here!
+Miru Bot Discord is here!
 
 Cooming Soon!
 <!--
